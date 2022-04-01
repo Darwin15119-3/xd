@@ -1,0 +1,79 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PRACTICA...</title>
+	<style type="text/css">
+		body {
+            background-color: white;
+		}
+		img {
+            width:300px;
+            height:150px;
+            border:3px solid blue;
+            border-radius: 20px;
+		}
+		#primera_seccion {
+			background-color: #F4A460;
+			color: #800000;
+			text-align: center;
+			margin: 0px 300px 10px 400px;
+		}
+		.subrayado {
+            text-decoration: underline;
+
+		}
+        #segunda_seccion {
+            color: #424242;
+        }
+        #tercera_seccion {
+            color: #800000;
+        }
+        a {
+        	text-decoration: none;
+        }
+        .xd {
+        	font-weight: bold;
+        	color: #CC00FF;
+        }
+        .Bv {
+        	font-weight: 1000;
+        	color: #660066;
+        }
+    </style>
+</head>
+<body>
+	<div>
+		<img src="https://cursosmasters.com//wp-content/uploads/2017/03/cursos-de-aulaclic-600x600.jpg">
+	</div>
+	<div id="primera_seccion">
+		<h1><li>aulaClic. Cursos de inform&aacute;tica gratis</li></h1>
+	</div>
+	<div id="segunda_seccion">
+		<h2>La primera web en español sobre cursos de inform&aacute;tica <span class="subrayado"><strong>gratis</strong></span> on-line</h2>
+	</div>
+	<div id="tercera_seccion">
+		<ol>
+            <h2>Cursos de aulaClic</h2>
+			<ol>
+                <font size="5">
+	            <li> Access 2016</li>
+	            <li>Excel 2016</li>
+	            <li>Internet</li>
+	            <li> Windows</li>
+	            </font>
+	        </ol>
+	        <h2>Cursos de colaboradores</h2>
+	            <ol start="5">
+	    	    <font size="5">
+	    	    <li> autoCAD 2015</li>
+	            <li> Estadistica con Excel</li>
+	            <li> Joomla</li>
+	            </font>
+	        </ol>
+	</ol>
+	</div>
+	<div>
+		<h3><a href="https://www.facebook.com/cursosaulaclic/" target="_blank"><span class="xd">siguenos en</span> <span class="Bv">FACEBOOK</span></a></h3>
+	</div>
+</body>
+</html>
